@@ -10,3 +10,4 @@ Goot to have
 
 References :
 https://github.com/ErdemOzgen/Python-developer-roadmap/blob/main/python-developer-roadmap.png
+https://awesome-architecture.com/software-architecture/#resources
